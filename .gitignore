@@ -1,0 +1,37 @@
+# Environment
+.env
+venv/
+env/
+ENV/
+.venv
+myenv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+outputs/generated_images/*.png
+outputs/generated_images/*.jpg
+outputs/debate_logs/*.json
+data/*.json
+!data/sample_trends.json
+!config/agents.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+

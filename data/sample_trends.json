@@ -1,0 +1,74 @@
+{
+  "sample_trends": [
+    {
+      "topic": "AI Revolution",
+      "platform": "twitter",
+      "hashtag": "#AIRevolution",
+      "volume": "high",
+      "relevance": 0.9
+    },
+    {
+      "topic": "Tech Innovation",
+      "platform": "linkedin",
+      "hashtag": "#TechInnovation",
+      "volume": "medium",
+      "relevance": 0.85
+    },
+    {
+      "topic": "Productivity Hacks",
+      "platform": "instagram",
+      "hashtag": "#ProductivityHacks",
+      "volume": "high",
+      "relevance": 0.8
+    },
+    {
+      "topic": "Future of Work",
+      "platform": "linkedin",
+      "hashtag": "#FutureOfWork",
+      "volume": "medium",
+      "relevance": 0.75
+    },
+    {
+      "topic": "Digital Transformation",
+      "platform": "twitter",
+      "hashtag": "#DigitalTransformation",
+      "volume": "medium",
+      "relevance": 0.7
+    },
+    {
+      "topic": "AI Tools",
+      "platform": "twitter",
+      "hashtag": "#AITools",
+      "volume": "very_high",
+      "relevance": 0.95
+    },
+    {
+      "topic": "Smart Automation",
+      "platform": "linkedin",
+      "hashtag": "#Automation",
+      "volume": "medium",
+      "relevance": 0.8
+    },
+    {
+      "topic": "SaaS Products",
+      "platform": "twitter",
+      "hashtag": "#SaaS",
+      "volume": "high",
+      "relevance": 0.85
+    },
+    {
+      "topic": "Startup Life",
+      "platform": "instagram",
+      "hashtag": "#StartupLife",
+      "volume": "medium",
+      "relevance": 0.65
+    },
+    {
+      "topic": "Machine Learning",
+      "platform": "linkedin",
+      "hashtag": "#MachineLearning",
+      "volume": "high",
+      "relevance": 0.9
+    }
+  ]
+}
