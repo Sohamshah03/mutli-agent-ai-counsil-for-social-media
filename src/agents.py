@@ -26,7 +26,7 @@ class MarketingAgent:
         
         # Initialize Groq client
         self.client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-        self.model = "llama-3.1-70b-versatile"
+        self.model = "llama-3.3-70b-versatile"
         
         # Performance history
         self.history = []

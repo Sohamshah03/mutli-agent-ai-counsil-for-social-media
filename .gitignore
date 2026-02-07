@@ -35,3 +35,8 @@ Thumbs.db
 # Streamlit
 .streamlit/secrets.toml
 
+.streamlit_app/
+
+.merged_app.py
+
+.project_summary.md

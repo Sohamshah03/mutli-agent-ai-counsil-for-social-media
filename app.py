@@ -95,7 +95,7 @@ def main():
     
     # Sidebar
     with st.sidebar:
-        st.image("https://via.placeholder.com/300x100/1f77b4/ffffff?text=AI+Council", use_container_width=True)
+        st.image("https://via.placeholder.com/300x100/1f77b4/ffffff?text=AI+Council", use_column_width=True)
         
         st.markdown("## ⚙️ System Status")
         
@@ -324,7 +324,7 @@ def main():
                 
                 image_path = content.get('image_path')
                 if image_path and os.path.exists(image_path):
-                    st.image(image_path, use_container_width=True)
+                    st.image(image_path, use_column_width=True)
                 else:
                     st.info("No image generated for this iteration")
             

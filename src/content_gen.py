@@ -76,7 +76,7 @@ Provide ONLY the post text, ready to publish. No explanations or meta-commentary
         
         try:
             response = self.groq_client.chat.completions.create(
-                model="llama-3.1-70b-versatile",
+                model="llama-3.3-70b-versatile",
                 messages=[
                     {"role": "system", "content": "You are an expert social media copywriter. Write compelling, platform-optimized posts."},
                     {"role": "user", "content": prompt}
